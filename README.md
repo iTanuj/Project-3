@@ -12,7 +12,7 @@ using psycopg2 module in python
 ## Setting up VM
 - Move the 'Vagrantfile' to downloaded directory
 - Extract 'newsdata.zip' to downloaded directory
-- Open 'Terminal' or 'Git bash for Windows' after going to downlaoded directory
+- Open 'Terminal' or 'Git bash for Windows' in downlaoded directory
 - run `vagrant up` (This can take time if running for the first time)
 - run `vagrant ssh`
 ## Loading Database
